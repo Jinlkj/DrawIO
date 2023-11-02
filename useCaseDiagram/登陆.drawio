@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T03:59:38.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="22.0.8" etag="DkFod8tsEjRC6Uwhqi5J" type="github">
+  <diagram name="第 1 页" id="Wb7mJd64eRIS2XYEZOSo">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="140" y="8" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Signin" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" y="72" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="HaveAccount" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="174" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="RegisterAccount" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="166" y="174" width="131" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="140" y="258" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="curved=1;startArrow=none;;exitX=0.49135044642857145;exitY=1;entryX=0.5066474780701754;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Have Account?" style="curved=1;startArrow=none;;exitX=0.017515881518589963;exitY=0.9880514705882353;entryX=0.5006510416666666;entryY=0.0055147058823529415;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="62" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="No Account?" style="curved=1;startArrow=none;;exitX=0.995779074621761;exitY=0.9880514705882353;entryX=0.5014312977099237;entryY=0.0055147058823529415;" edge="1" parent="1" source="3" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;;exitX=0.5006510416666666;exitY=0.9935661764705882;entryX=-0.008649553571428572;entryY=0.2957148737966934;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="62" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;;exitX=0.5014312977099237;exitY=0.9935661764705882;entryX=0.9913504464285714;entryY=0.2957148737966934;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
