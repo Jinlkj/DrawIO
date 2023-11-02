@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T03:48:44.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="22.0.8" etag="OiKg2HI0113ncsK7ulZG" type="github">
+  <diagram name="第 1 页" id="L_fMNPPxDLcyUeQZIdtq">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="76" y="8" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="LoggedOut" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="72" width="91" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="LoggingIn" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="14" y="174" width="82" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="LoggedIn" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="16" y="276" width="79" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="LoggingOut" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="379" width="95" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="155" y="184" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;;exitX=0.5092075892857143;exitY=1;entryX=0.5069110576923077;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="login" style="curved=1;startArrow=none;;exitX=0.30711760048055914;exitY=0.9880514705882353;entryX=0.3949507341081151;entryY=0.0055147058823529415;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="28" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="success" style="curved=1;startArrow=none;;exitX=0.5058117378048781;exitY=0.9935661764705882;entryX=0.4997033227848101;entryY=0.011029411764705883;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="error" style="curved=1;startArrow=none;;exitX=0.616672741501641;exitY=0.0055147058823529415;entryX=0.5069110576923077;entryY=0.9880514705882353;" edge="1" parent="1" source="4" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="logout" style="curved=1;startArrow=none;;exitX=0.4997033227848101;exitY=0.9990808823529411;entryX=0.4997532894736842;entryY=-0.012867647058823529;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="logout" style="curved=1;startArrow=none;;exitX=0.7934491385430319;exitY=0.9880514705882353;entryX=0.5318080357142857;entryY=-0.0011160714285714285;" edge="1" parent="1" source="3" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="162" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
