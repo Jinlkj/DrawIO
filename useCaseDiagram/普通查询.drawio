@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T04:43:14.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="22.0.8" etag="pyYTo2efgssUEWMqO02M" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T06:22:32.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="PbkGweJ2g647EY5XKpIJ" version="22.0.8" type="github">
   <diagram name="第 1 页" id="IPirHwhuUQtOS19m1ug0">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-10" style="edgeStyle=none;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;endArrow=classic;" edge="1" parent="1" source="VEM0GozfmI7rlo6-lC2H-1" target="VEM0GozfmI7rlo6-lC2H-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-8" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryPerimeter=0;" edge="1" parent="1" source="VEM0GozfmI7rlo6-lC2H-5" target="VEM0GozfmI7rlo6-lC2H-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-11" value="有相关书籍" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Architects Daughter;fontColor=default;" vertex="1" connectable="0" parent="VEM0GozfmI7rlo6-lC2H-8">
+          <mxGeometry x="-0.3905" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-5" value="输入待查询文献、书籍" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="260" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;shape=connector;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VEM0GozfmI7rlo6-lC2H-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="330" as="sourcePoint" />
+            <mxPoint x="380" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="370" />
+              <mxPoint x="550" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEM0GozfmI7rlo6-lC2H-18" value="没有书籍" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Architects Daughter;fontColor=default;" vertex="1" connectable="0" parent="VEM0GozfmI7rlo6-lC2H-16">
+          <mxGeometry x="-0.5949" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
