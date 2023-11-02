@@ -1,54 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T03:59:38.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" version="22.0.8" etag="DkFod8tsEjRC6Uwhqi5J" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T04:02:39.155Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="OZE_fLu-kyIKvuwDo8Nn" version="22.0.8" type="github">
   <diagram name="第 1 页" id="Wb7mJd64eRIS2XYEZOSo">
-    <mxGraphModel>
+    <mxGraphModel dx="795" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="140" y="8" width="14" height="14" as="geometry" />
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-12" value="" style="ellipse;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="120" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Signin" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="72" width="57" height="34" as="geometry" />
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-13" value="登陆" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="184" width="57" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="HaveAccount" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="174" width="108" height="34" as="geometry" />
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-14" value="直接登陆" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="286" width="108" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="RegisterAccount" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="166" y="174" width="131" height="34" as="geometry" />
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-15" value="注册账户" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="398" y="286" width="131" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="140" y="258" width="14" height="14" as="geometry" />
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-16" value="" style="ellipse;shape=endState;labelBackgroundColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="370" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="curved=1;startArrow=none;;exitX=0.49135044642857145;exitY=1;entryX=0.5066474780701754;entryY=0;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-17" value="" style="curved=1;startArrow=none;;exitX=0.49135044642857145;exitY=1;entryX=0.5066474780701754;entryY=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="RGMPA34h6z5fSCH6lq9s-12" target="RGMPA34h6z5fSCH6lq9s-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8" value="Have Account?" style="curved=1;startArrow=none;;exitX=0.017515881518589963;exitY=0.9880514705882353;entryX=0.5006510416666666;entryY=0.0055147058823529415;" edge="1" parent="1" source="3" target="4">
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-18" value="有帐户" style="curved=1;startArrow=none;;exitX=0.017515881518589963;exitY=0.9880514705882353;entryX=0.5006510416666666;entryY=0.0055147058823529415;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="RGMPA34h6z5fSCH6lq9s-13" target="RGMPA34h6z5fSCH6lq9s-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="62" y="140" />
+              <mxPoint x="294" y="252" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9" value="No Account?" style="curved=1;startArrow=none;;exitX=0.995779074621761;exitY=0.9880514705882353;entryX=0.5014312977099237;entryY=0.0055147058823529415;" edge="1" parent="1" source="3" target="5">
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-19" value="无账户" style="curved=1;startArrow=none;;exitX=0.995779074621761;exitY=0.9880514705882353;entryX=0.5014312977099237;entryY=0.0055147058823529415;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="RGMPA34h6z5fSCH6lq9s-13" target="RGMPA34h6z5fSCH6lq9s-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="232" y="140" />
+              <mxPoint x="464" y="252" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="10" value="" style="curved=1;startArrow=none;;exitX=0.5006510416666666;exitY=0.9935661764705882;entryX=-0.008649553571428572;entryY=0.2957148737966934;" edge="1" parent="1" source="4" target="6">
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-20" value="" style="curved=1;startArrow=none;;exitX=0.5006510416666666;exitY=0.9935661764705882;entryX=-0.008649553571428572;entryY=0.2957148737966934;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="RGMPA34h6z5fSCH6lq9s-14" target="RGMPA34h6z5fSCH6lq9s-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="62" y="233" />
+              <mxPoint x="294" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="" style="curved=1;startArrow=none;;exitX=0.5014312977099237;exitY=0.9935661764705882;entryX=0.9913504464285714;entryY=0.2957148737966934;" edge="1" parent="1" source="5" target="6">
+        <mxCell id="RGMPA34h6z5fSCH6lq9s-21" value="" style="curved=1;startArrow=none;;exitX=0.5014312977099237;exitY=0.9935661764705882;entryX=0.9913504464285714;entryY=0.2957148737966934;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="RGMPA34h6z5fSCH6lq9s-15" target="RGMPA34h6z5fSCH6lq9s-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="232" y="233" />
+              <mxPoint x="464" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
